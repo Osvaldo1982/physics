@@ -1,0 +1,19 @@
+# References
+
+
+# Online Resources
+
+
+# Basic Examples on Diff Geo
+
+* [Stackoverflow - Hoe to setup sympy for differential geometry](https://stackoverflow.com/questions/21556512/how-to-set-up-sympy-to-perform-standard-differential-geometry-tasks)
+* [test function for differential geometry](https://github.com/sympy/sympy/blob/master/sympy/diffgeom/tests/test_function_diffgeom_book.py)
+* [John D. Cook Blog - Differential Geometry](https://www.johndcook.com/blog/tag/differential-geometry/)
+* [Krastanov Blog - Differential Geometry in Python](https://blog.krastanov.org/pages/diff-geometry-in-python.html)
+* [sympy - tensor modules](https://docs.sympy.org/latest/modules/tensor/tensor.html)
+
+
+
+
+
+
