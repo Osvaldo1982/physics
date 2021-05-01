@@ -16,6 +16,9 @@
 *.blg
 *.synctex
 *.bbl
+*.idx
+*.ilg
+*.ind
 
 # But not these files.
 !.gitignore
