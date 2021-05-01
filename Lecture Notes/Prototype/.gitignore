@@ -16,6 +16,15 @@
 *.blg
 *.synctex
 *.bbl
+*.idx
+*.ilg
+*.ind
+
+# image files
+*.png
+*.jpeg
+*.jpg
+*.bitmap
 
 # But not these files.
 !.gitignore
