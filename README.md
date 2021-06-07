@@ -4,6 +4,14 @@ In this repository I discuss about computational aspects of physics, such as sim
 
 # References
 
+## Interesting Pages
+* http://www.physics.udel.edu/~msafrono/311/schedule.html
+* https://web.pa.msu.edu/people/mmoore/851.html
+* http://www.thphys.nuim.ie/Notes/
+* https://www.stat.auckland.ac.nz/~fewster/325/notes/
+* https://quantum.phys.cmu.edu/CQT/
+* http://scipp.ucsc.edu/~haber/#sec5
+
 ## Physics Simulations
 * https://www.numfys.net/examples/
 
@@ -27,3 +35,6 @@ In this repository I discuss about computational aspects of physics, such as sim
 
 ## Books
 * https://www.amazon.com/Mathematical-Modeling-Computational-Calculus-Vol/dp/0976413868
+
+## Python for Physics
+* https://qutip.org/tutorials.html
