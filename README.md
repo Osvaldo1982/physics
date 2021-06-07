@@ -17,6 +17,7 @@ In this repository I discuss about computational aspects of physics, such as sim
 
 ## Machine Learning and Physics
 * https://machine-learning-for-physicists.org/
+* http://noiselab.ucsd.edu/ECE285/
 * https://pad.gwdg.de/s/HJtiTE__U
 * https://github.com/FlorianMarquardt/machine-learning-for-physicists
 * http://physics.bu.edu/~pankajm/PY895-ML.html
