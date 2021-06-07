@@ -22,3 +22,7 @@ In this repository I discuss about computational aspects of physics, such as sim
 * http://physics.bu.edu/~pankajm/PY895-ML.html
 * https://physics.bu.edu/~pankajm/ML-Notebooks/HTML/NB12_CIX-DNN_ising_TFlow.html
 * https://www.amazon.com/Deep-Learning-Physics-Mathematical-Studies/dp/9813361077
+* http://noiselab.ucsd.edu/ECE285/
+
+## Books
+* https://www.amazon.com/Mathematical-Modeling-Computational-Calculus-Vol/dp/0976413868
