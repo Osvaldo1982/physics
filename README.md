@@ -36,6 +36,8 @@ In this repository I discuss about computational aspects of physics, such as sim
 
 ## Python for Physics
 * https://qutip.org/tutorials.html
+* https://www.jmlr.org/papers/v21/19-027.html
+* https://geomstats.github.io/
 
 # Undergraduate course proposal
 **Module 1**
